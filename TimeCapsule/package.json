@@ -1,0 +1,12 @@
+{
+    "name": "TimeCapsule",
+    "version": "1.0.0",
+    "description": "An app to organize, preserve, and share memories.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      // Aggiungi qui le tue dipendenze
+    }
+  }
